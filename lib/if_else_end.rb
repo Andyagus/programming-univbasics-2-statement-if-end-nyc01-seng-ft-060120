@@ -1,2 +1,6 @@
-current_time = Time.now
-print current_time.to_s
+current_time=Time.Now
+if true
+  puts "even!"
+else
+  puts "odd"
+end
